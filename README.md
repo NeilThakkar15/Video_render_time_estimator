@@ -27,10 +27,13 @@ On Windows:
 
 DOS
 render_time.exe
+
 On macOS/Linux:
 
 Bash
 ./render_time
+
+
 🧪 Tested Scenarios
 High-End Pro Rig: 2160p (4K), 60 FPS, 32 GB RAM
 
@@ -39,4 +42,4 @@ Standard Student Setup: 1080p, 30/60 FPS, 8 GB RAM
 Defensive Validation: Non-standard resolution checks (e.g., error fallback trigger)
 
 💻 Author
-Built with ❤️ by a 1st-year Computer Science and Engineering student exploring systems-level programming.
+Built by a 1st-year Computer Science and Engineering student exploring systems-level programming.
